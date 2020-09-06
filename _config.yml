@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bhagya Athukorallage"
 title_separator          : "-"
-name                     : &name "BHagya"
+name                     : &name "Bhagya"
 description              : &description "personal description"
-url                      : "https://buathukorala.github.io/basite1/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://buathukorala.github.io/geoconlab/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "basite1"
+repository               : "geoconlab"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
