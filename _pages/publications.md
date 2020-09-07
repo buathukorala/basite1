@@ -2,6 +2,8 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+header:
+  teaser: image3.jpg
 author_profile: true
 ---
 
