@@ -7,8 +7,6 @@
 
 
 # Site Settings
-header:
-overlay_image: images/image2.jpg
 locale                   : "en-US"
 title                    : "Bhagya Athukorallage"
 title_separator          : "-"
