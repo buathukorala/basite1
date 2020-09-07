@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome"
 excerpt: "About me"
 header:
-  image: image3.jpg 
+  overlay_image: image3.jpg 
   overlay_filter:  rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
