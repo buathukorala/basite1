@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+header: images/image2.jpg
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
