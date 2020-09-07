@@ -3,7 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 header:
-  teaser: image3.jpg
+  overlay_image: image3.jpg 
+  overlay_filter: 0.5  
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 ---
 
