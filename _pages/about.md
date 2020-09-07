@@ -4,7 +4,7 @@ title: "Welcome"
 excerpt: "About me"
 header:
   overlay_image: /assets/images/image3.jpg
-  overlay_filter: 0.1 # same as adding an opacity of 0.5 to a black background
+  overlay_filter:  rgba(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 redirect_from: 
