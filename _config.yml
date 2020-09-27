@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Bhagya Athukorallage"
   avatar           : "bhagya.png"
-  bio              : "Applied Mathematician, Passionate Teacher, and Rookie Geometric Control Theorist"
-  location         : "Lubbock, TX"
-  employer         : Texas Tech University
-
+  bio              : "Applied Mathematician      Passionate Teacher        Rookie Geometric Control Theorist"
   email            : "bhagya.athukorala@ttu.edu"
+  employer         : "Texas Tech University"
+
+  
   googlescholar    : "https://scholar.google.com/citations?user=n5g38WIAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -192,24 +192,16 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _publications
   - scope:
       path: ""
-      type: posts
+      type: Research
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
       share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+      comments: true
+  
   # _teaching
   - scope:
       path: ""
@@ -219,15 +211,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+        
   # _portfolio
   - scope:
       path: ""
@@ -237,14 +221,18 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+      
+  # _pages
   - scope:
       path: ""
-      type: talks
+      type: pages
     values:
-      layout: talk
+      layout: single
       author_profile: true
-      share: true
+
+
+
+
 
 # Sass/SCSS
 sass:
