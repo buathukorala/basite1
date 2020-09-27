@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. B"
+  name             : "Bhagya Athukorallage"
   avatar           : "bhagya.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Applied Mathematician, Passionate Teacher, and Rookie Geometric Control Theorist"
   location         : "Lubbock, TX"
-  employer         :
+  employer         : Texas Tech University
 
+  email            : "bhagya.athukorala@ttu.edu"
   googlescholar    : "https://scholar.google.com/citations?user=n5g38WIAAAAJ&hl=en"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
